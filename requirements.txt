@@ -1,0 +1,11 @@
+ecmwf-api-client
+cdsapi
+xarray
+netCDF4
+numpy
+pandas
+matplotlib
+cartopy
+scipy
+torch
+cfgrib
